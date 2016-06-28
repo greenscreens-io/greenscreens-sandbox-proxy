@@ -1,0 +1,19 @@
+{
+  "name": "terminal-proxy-service",
+  "version": "1.0.0",
+  "productName": "terminal-proxy-service",
+  "description": "Terminal AHLL API service proxy",
+  "author": "Green Screens Ltd. <info@greenscreens.io>",
+  "email": "info@greenscreens.io",
+  "url": "http://www.greenscreens.io",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js",
+      "debug": "node --debug-brk=51669 index.js "
+  },  
+  "dependencies": {
+    "mem-cache": "0.0.5",
+    "node-windows": "^0.1.11",
+    "ws": "^1.1.0"
+  }
+}

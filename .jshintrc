@@ -1,0 +1,11 @@
+{
+	"esversion" : 6,
+	"moz" : true,
+	"globals" : {
+		"$" : false,
+		"Tn5250" : false,
+		"window" : false,
+		"chrome" : false,
+		"document" : false
+	}
+}
