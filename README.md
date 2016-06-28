@@ -7,9 +7,13 @@ Main purpose is to enable integration with our A-HLL API for automated programma
 * Clone repository
 * Position to repository directory
 * Install required modules
+
     npm install
+
 * Register service to Windows (administrative privileges required)
+    
     node install.js
+
 * Start GreenScreens Web Terminal and open browser debug console
 * Use sample code shown below to connect and issue command
 
