@@ -1,7 +1,7 @@
 /**
- * Copyright (C) 2015, 2016  GreenScreens Ltd.
+ * Copyright (C) 2016  Green Screens Ltd.
  *
- * A-HLL Windows Service Installation 
+ * A-HLL Windows Service Installation
  *
  * NOTE: When running as a service, GUI apps will run
  * started with STRRMTCMD will start under session:0

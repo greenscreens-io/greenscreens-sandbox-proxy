@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2015, 2016  GreenScreens Ltd.
+ * Copyright (C) 2016  Green Screens Ltd.
  *
  * WebSocket commands - EHLL API implementation
  */
